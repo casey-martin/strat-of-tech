@@ -8,7 +8,6 @@ This is repository is an exercise in which I aim to:
 As stated on Jerry's website, this book is a form of shareware. You may find additional information on the landing page for [The Strategy of Technology](https://www.jerrypournelle.com/slowchange/Strat.html) about where to send funds if you find this edition of the book useful. If Dr. Possony's or Dr. Pournelle's estates wish for me to remove this repository, I will be happy to oblige.
 
 ## To Do:
-  - Break up .TEX file from monolithic structure
   - Learn best practices for formatting commentary added later
     - Footnotes vs Bounding Boxes?
   - Go back and clean up missing endnotes/footnotes

@@ -1,0 +1,50 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{Preface}{v}{}%
+\contentsline {section}{\numberline {0.1}Preface to the Electronic Edition 1997}{viii}{}%
+\contentsline {section}{\numberline {0.2}Preface to the Electronic Edition 1991}{ix}{}%
+\contentsline {chapter}{\numberline {1}The Technological War}{1}{}%
+\contentsline {section}{\numberline {1.1}Definition of Technological Warfare}{7}{}%
+\contentsline {section}{\numberline {1.2}Foundations of the Technological War}{9}{}%
+\contentsline {subsection}{\numberline {1.2.1}Fundamentals of Technology Strategy}{9}{}%
+\contentsline {section}{\numberline {1.3}Dimesnions of the Technological War}{10}{}%
+\contentsline {section}{\numberline {1.4}An Overview of the Nature of Technology}{11}{}%
+\contentsline {section}{\numberline {1.5}The Decisive War}{15}{}%
+\contentsline {section}{\numberline {1.6}The Elements of Strategy}{19}{}%
+\contentsline {subsection}{\numberline {1.6.1}What is Strategy}{19}{}%
+\contentsline {section}{\numberline {1.7}The Principles of War}{20}{}%
+\contentsline {section}{\numberline {1.8}Strategy and Technology}{21}{}%
+\contentsline {subsection}{\numberline {1.8.1}1988}{23}{}%
+\contentsline {subsection}{\numberline {1.8.2}1997}{24}{}%
+\contentsline {chapter}{\numberline {2}An Overview Of The Recent History of the Technological War}{25}{}%
+\contentsline {section}{\numberline {2.1}Organization of This Chapter}{26}{}%
+\contentsline {section}{\numberline {2.2}Soviet Technological Strategy}{27}{}%
+\contentsline {section}{\numberline {2.3}The U.S. Conduct of the Technological War}{29}{}%
+\contentsline {section}{\numberline {2.4}The 1950s Era}{30}{}%
+\contentsline {subsection}{\numberline {2.4.1}The Nuclear Powered Airplane}{30}{}%
+\contentsline {subsection}{\numberline {2.4.2}The ICBM}{31}{}%
+\contentsline {subsection}{\numberline {2.4.3}SLBM}{32}{}%
+\contentsline {section}{\numberline {2.5}The 1960s Era}{32}{}%
+\contentsline {subsection}{\numberline {2.5.1}Apollo}{32}{}%
+\contentsline {subsection}{\numberline {2.5.2}Military Aircraft}{32}{}%
+\contentsline {section}{\numberline {2.6}The 1970s Era}{33}{}%
+\contentsline {subsection}{\numberline {2.6.1}MIRV}{33}{}%
+\contentsline {subsection}{\numberline {2.6.2}Shuttle}{34}{}%
+\contentsline {section}{\numberline {2.7}The 1980s Era}{36}{}%
+\contentsline {subsection}{\numberline {2.7.1}B-1}{36}{}%
+\contentsline {subsection}{\numberline {2.7.2}SDI}{36}{}%
+\contentsline {section}{\numberline {2.8}The Present Assumptions Governing U.S. Conduct of the Technological War}{37}{}%
+\contentsline {section}{\numberline {2.9}The Abandonment of the Initiave}{40}{}%
+\contentsline {section}{\numberline {2.10}Surprise\FN@sf@gobble@opt { Current examples are space, ABM, MIRV, and the use of deep underwater technology for military purposes.} }{43}{}%
+\contentsline {section}{\numberline {2.11}Science Is No Substitute for Military Judgment\FN@sf@gobble@opt { For an early discussion of this subject, see Colonel Francis X. Kane, U.S.A.F., "Security Is Too Important To Be Left To Computers," Fortune, April 1964. Reprinted in Barnen, Mott, and Neff, Peace and War in the Modern Age (Garden City, N.Y.: Doubleday Anchor, 1965).} }{45}{}%
+\contentsline {section}{\numberline {2.12}Systems Analysis and Military Decisions: The TFX}{45}{}%
+\contentsline {section}{\numberline {2.13}The Limits of Scientific Military Analysis}{48}{}%
+\contentsline {section}{\numberline {2.14}Other Fallacies}{50}{}%
+\contentsline {section}{\numberline {2.15}Technological Process}{51}{}%
+\contentsline {section}{\numberline {2.16}Centralized Decisions}{52}{}%
+\contentsline {section}{\numberline {2.17}Small Advantages}{53}{}%
+\contentsline {section}{\numberline {2.18}Symmetry of Motives}{53}{}%
+\contentsline {section}{\numberline {2.19}Overkill\FN@sf@gobble@opt {The Secretary of Defense's heavy emphasis on numerical data from Viet Nam often dictated inappropriate military tactics and strategies. As one operations officer explained, the goal wasn't to kill targets, it was to fly sorties.} }{55}{}%
+\contentsline {section}{\numberline {2.20}Fear of Obsolescence}{55}{}%
+\contentsline {section}{\numberline {2.21}We Don't Need to Do Anything}{56}{}%
+\contentsline {section}{\numberline {2.22}An Illustrative Case History:}{57}{}%
+\contentsline {subsection}{\numberline {2.22.1}GPS NAVSTAR: The Revolution 25 Years in the Making}{57}{}%
