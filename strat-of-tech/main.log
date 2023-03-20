@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.3.18)  19 MAR 2023 02:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.3.18)  19 MAR 2023 19:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -547,60 +547,161 @@ Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
 Package footmisc Info: Declaring symbol style lamport* on input line 903.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 .
-) (./main.aux
-(./chapters/preface.aux) (./chapters/chapter-1.aux) (./chapters/chapter-2.aux))
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count295
+\rotFPtop=\skip117
+\rotFPbot=\skip118
+\rot@float@box=\box68
+\rot@mess@toks=\toks32
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tabularray/tabularray.sty
+Package: tabularray 2021-12-01 v2021Q Typeset tabulars and arrays with LaTeX3
+\l__tblr_a_int=\count296
+\l__tblr_c_int=\count297
+\l__tblr_r_int=\count298
+\l__tblr_d_dim=\dimen194
+\l__tblr_h_dim=\dimen195
+\l__tblr_o_dim=\dimen196
+\l__tblr_p_dim=\dimen197
+\l__tblr_q_dim=\dimen198
+\l__tblr_r_dim=\dimen199
+\l__tblr_s_dim=\dimen256
+\l__tblr_t_dim=\dimen257
+\l__tblr_v_dim=\dimen258
+\l__tblr_w_dim=\dimen259
+\l__tblr_a_box=\box69
+\l__tblr_b_box=\box70
+\l__tblr_c_box=\box71
+\l__tblr_d_box=\box72
+\g__tblr_table_count_int=\count299
+\c@rownum=\count300
+\c@colnum=\count301
+\c@rowcount=\count302
+\c@colcount=\count303
+\abovesep=\dimen260
+\belowsep=\dimen261
+\leftsep=\dimen262
+\rightsep=\dimen263
+\g_tblr_level_int=\count304
+\g__tblr_data_row_key_count_int=\count305
+\g__tblr_data_column_key_count_int=\count306
+\g__tblr_data_cell_key_count_int=\count307
+\g__tblr_array_int=\count308
+\l__tblr_key_count_int=\count309
+\l__tblr_key_quotient_int=\count310
+\l__tblr_key_quotient_two_int=\count311
+\l__tblr_key_remainder_int=\count312
+\g__tblr_data_str_value_count_int=\count313
+\rulewidth=\dimen264
+\l__multicolumn_cell_number_int=\count314
+\l__tblr_strut_ht_box=\box73
+\l__tblr_strut_dp_box=\box74
+\g__tblr_cell_wd_dim=\dimen265
+\g__tblr_cell_ht_dim=\dimen266
+\g__tblr_cell_head_dim=\dimen267
+\g__tblr_cell_foot_dim=\dimen268
+\l__column_target_dim=\dimen269
+\l__tblr_caption_box=\box75
+\l__tblr_caption_left_box=\box76
+\l__tblr_row_head_box=\box77
+\l__tblr_row_foot_box=\box78
+\l__tblr_row_head_foot_dim=\dimen270
+\tablewidth=\dimen271
+\l__tblr_table_firsthead_box=\box79
+\l__tblr_table_middlehead_box=\box80
+\l__tblr_table_lasthead_box=\box81
+\l__tblr_table_firstfoot_box=\box82
+\l__tblr_table_middlefoot_box=\box83
+\l__tblr_table_lastfoot_box=\box84
+\l__tblr_remain_height_dim=\dimen272
+\l__tblr_long_from_int=\count315
+\l__tblr_long_to_int=\count316
+\l__tblr_curr_i_int=\count317
+\l__tblr_prev_i_int=\count318
+\l__tblr_table_page_int=\count319
+\l__tblr_table_head_box=\box85
+\l__tblr_table_foot_box=\box86
+\l__tblr_table_head_foot_dim=\dimen273
+\l__tblr_table_head_body_foot_dim=\dimen274
+\l__tblr_table_box=\box87
+\l__tblr_table_hlines_box=\box88
+\l__tblr_hline_box=\box89
+\l__tblr_row_box=\box90
+\l__tblr_col_o_wd_dim=\dimen275
+\l__tblr_col_b_wd_dim=\dimen276
+\l__tblr_hline_leftskip_dim=\dimen277
+\l__tblr_hline_rightskip_dim=\dimen278
+\l__tblr_row_ht_dim=\dimen279
+\l__tblr_row_dp_dim=\dimen280
+\l__tblr_row_abovesep_dim=\dimen281
+\l__tblr_row_belowsep_dim=\dimen282
+\l__tblr_row_vlines_box=\box91
+\l__tblr_vline_box=\box92
+\l__tblr_cell_box=\box93
+\l__row_upper_dim=\dimen283
+\l__row_lower_dim=\dimen284
+\l__row_vpace_dim=\dimen285
+\l__tblr_vline_aboveskip_dim=\dimen286
+\l__tblr_vline_belowskip_dim=\dimen287
+\l__tblr_cell_wd_dim=\dimen288
+\l__tblr_cell_ht_dim=\dimen289
+\l__tblr_diag_box=\box94
+) (./main.aux (./chapters/preface.aux) (./chapters/chapter-1.aux) (./chapters/c
+hapter-2.aux) (./chapters/chapter-3.aux) (./chapters/chapter-4.aux)
+(./chapters/chapter-5.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count295
-\scratchdimen=\dimen194
-\scratchbox=\box68
-\nofMPsegments=\count296
-\nofMParguments=\count297
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count298
-\MPscratchDim=\dimen195
-\MPnumerator=\count299
-\makeMPintoPDFobject=\count300
-\everyMPtoPDFconversion=\toks33
+\scratchcounter=\count320
+\scratchdimen=\dimen290
+\scratchbox=\box95
+\nofMPsegments=\count321
+\nofMParguments=\count322
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count323
+\MPscratchDim=\dimen291
+\MPnumerator=\count324
+\makeMPintoPDFobject=\count325
+\everyMPtoPDFconversion=\toks34
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/ninecolors/ninecolors.sty
+Package: ninecolors 2021/05/24 v2021C Select colors with proper color contrast
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 18.
+(Font)              <14.4> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 18.
-
-[1
+(Font)              <7> on input line 22.
+ [1
 
 
 
@@ -619,35 +720,35 @@ Overfull \hbox (2.02657pt too wide) in paragraph at lines 35--35
 the Tech- 
  []
 
-)
+[4])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [4]
+ [5]
 \openout2 = `chapters/preface.aux'.
 
- (./chapters/preface.tex [5
+ (./chapters/preface.tex [6
 
 
-] [6]
+] [7] [8]
 Package mdframed Info: mdframed works in twoside mode on input line 40.
 
 Underfull \vbox (badness 2269) has occurred while \output is active []
 
- [7]
-[8]
+ [9]
+[10]
 Overfull \hbox (1.33205pt too wide) in paragraph at lines 65--66
 []\OT1/cmr/m/n/12 Most of the ex-am-ples in this book were cho-sen for their im
 -pact on thoughts
  []
 
-[9]
+[11]
 Overfull \hbox (7.30038pt too wide) in paragraph at lines 83--84
 []\OT1/cmr/m/n/12 STRATEGY OF TECH-NOL-OGY was a text-book in the Ser-vice Acad
 emies
  []
 
-) [10]
+) [12]
 \openout2 = `chapters/chapter-1.aux'.
 
  (./chapters/chapter-1.tex
@@ -662,7 +763,7 @@ Chapter 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 103.
  [8] [9] [10] [11] [12]
-<./images//./fig-1.jpg, id=84, 481.04718pt x 295.1025pt>
+<./images//./fig-1.jpg, id=90, 481.04718pt x 295.1025pt>
 File: ./images//./fig-1.jpg Graphic file (type jpg)
 <use ./images//./fig-1.jpg>
 Package pdftex.def Info: ./images//./fig-1.jpg  used on input line 154.
@@ -751,30 +852,169 @@ Package mdframed Info: mdframed works in twoside mode on input line 384.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [54]
-[55] [56] [57] [58] [59] [60] [61] [62]) [63] (./main.aux
-(./chapters/preface.aux) (./chapters/chapter-1.aux) (./chapters/chapter-2.aux))
- ) 
+[55] [56] [57] [58] [59] [60] [61] [62]) [63]
+\openout2 = `chapters/chapter-3.aux'.
+
+ (./chapters/chapter-3.tex
+[64
+
+
+
+
+]
+Chapter 3.
+Package mdframed Info: mdframed works in twoside mode on input line 7.
+Package mdframed Info: mdframed works in twoside mode on input line 21.
+[65]
+Package mdframed Info: mdframed works in twoside mode on input line 34.
+ [66]
+Package mdframed Info: mdframed works in twoside mode on input line 48.
+ [67] [68] [69] [70] [71] [72]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [73]
+[74]
+Package mdframed Info: mdframed works in twoside mode on input line 160.
+ [75]
+Package mdframed Info: Not enough space on this page on input line 161.
+) [76]
+\openout2 = `chapters/chapter-4.aux'.
+
+ (./chapters/chapter-4.tex
+Chapter 4.
+Package mdframed Info: mdframed works in twoside mode on input line 22.
+
+Overfull \hbox (0.39476pt too wide) in paragraph at lines 28--29
+[]\OT1/cmr/m/n/12 The So-viet Union was thus pre-sented with an im-pos-si-ble s
+et of choices:
+ []
+
+[77
+
+
+
+
+] [78] [79]
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+ [80]
+Overfull \hbox (30.33884pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/12 4.2.  THE ELEMENTS OF TECHNOLOGICAL STRATEGY: AN OVERVIEW \OT1
+/cmr/m/n/12 81
+ []
+
+[81]
+Underfull \vbox (badness 4752) has occurred while \output is active []
+
+ [82]
+Overfull \hbox (30.33884pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/12 4.2.  THE ELEMENTS OF TECHNOLOGICAL STRATEGY: AN OVERVIEW \OT1
+/cmr/m/n/12 83
+ []
+
+[83]
+Package mdframed Info: mdframed works in twoside mode on input line 116.
+ [84]
+Package mdframed Info: mdframed works in twoside mode on input line 132.
+<./images//./chart-11.jpg, id=320, 481.04718pt x 356.83313pt>
+File: ./images//./chart-11.jpg Graphic file (type jpg)
+<use ./images//./chart-11.jpg>
+Package pdftex.def Info: ./images//./chart-11.jpg  used on input line 140.
+(pdftex.def)             Requested size: 390.00575pt x 289.30003pt.
+ [85] [86 <./images//./chart-11.jpg>] [87]
+Package mdframed Info: mdframed works in twoside mode on input line 169.
+ [88]
+Package mdframed Info: mdframed works in twoside mode on input line 180.
+ [89] [90]
+Package mdframed Info: mdframed works in twoside mode on input line 199.
+ [91]
+<./images//./chart-12.jpg, id=345, 481.04718pt x 201.75375pt>
+File: ./images//./chart-12.jpg Graphic file (type jpg)
+<use ./images//./chart-12.jpg>
+Package pdftex.def Info: ./images//./chart-12.jpg  used on input line 218.
+(pdftex.def)             Requested size: 390.00575pt x 163.57048pt.
+
+[92 <./images//./chart-12.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [93]
+<./images//./chart-13.jpg, id=352, 481.04718pt x 313.17pt>
+File: ./images//./chart-13.jpg Graphic file (type jpg)
+<use ./images//./chart-13.jpg>
+Package pdftex.def Info: ./images//./chart-13.jpg  used on input line 236.
+(pdftex.def)             Requested size: 390.00575pt x 253.90045pt.
+
+[94 <./images//./chart-13.jpg>]
+Package mdframed Info: mdframed works in twoside mode on input line 246.
+ [95]
+<./images//./chart-14.jpg, id=359, 457.71pt x 361.35pt>
+File: ./images//./chart-14.jpg Graphic file (type jpg)
+<use ./images//./chart-14.jpg>
+Package pdftex.def Info: ./images//./chart-14.jpg  used on input line 263.
+(pdftex.def)             Requested size: 390.01216pt x 307.90433pt.
+ [96 <./images//./chart-14.jpg>] [97]
+[98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109]) [110]
+[111]
+\openout2 = `chapters/chapter-5.aux'.
+
+ (./chapters/chapter-5.tex [112
+
+
+
+
+]
+Chapter 5.
+[113]
+Package mdframed Info: mdframed works in twoside mode on input line 27.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [114]
+Package mdframed Info: mdframed works in twoside mode on input line 43.
+
+[115]
+Package mdframed Info: mdframed works in twoside mode on input line 56.
+ [116] [117] [118]
+Overfull \hbox (2.44043pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/12 5.4.  STRATEGIC SURPRISE THROUGH OPERATIONAL SURPRISE \OT1/cmr
+/m/n/12 119
+ []
+
+[119] [120] [121]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [122]
+[123] [124] [125] [126] [127] [128] [129]) [130] (./main.aux
+(./chapters/preface.aux) (./chapters/chapter-1.aux) (./chapters/chapter-2.aux)
+(./chapters/chapter-3.aux) (./chapters/chapter-4.aux) (./chapters/chapter-5.aux
+)) ) 
 Here is how much of TeX's memory you used:
- 15388 strings out of 480247
- 317260 string characters out of 5896151
- 601752 words of memory out of 5000000
- 33026 multiletter control sequences out of 15000+600000
- 476684 words of font info for 52 fonts, out of 8000000 for 9000
+ 17651 strings out of 480247
+ 374730 string characters out of 5896151
+ 691232 words of memory out of 5000000
+ 35254 multiletter control sequences out of 15000+600000
+ 477786 words of font info for 55 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 104i,10n,111p,1642b,946s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/operon/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.60
-0pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (73 pages, 326010 bytes).
+ 104i,10n,112p,2016b,966s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/operon/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.
+600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (142 pages, 635251 bytes).
 PDF statistics:
- 291 PDF objects out of 1000 (max. 8388607)
- 195 compressed objects within 2 object streams
+ 516 PDF objects out of 1000 (max. 8388607)
+ 345 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 

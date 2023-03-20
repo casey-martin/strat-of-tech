@@ -1,7 +1,7 @@
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{Preface}{v}{}%
-\contentsline {section}{\numberline {0.1}Preface to the Electronic Edition 1997}{viii}{}%
-\contentsline {section}{\numberline {0.2}Preface to the Electronic Edition 1991}{ix}{}%
+\contentsline {chapter}{Preface}{vii}{}%
+\contentsline {section}{\numberline {0.1}Preface to the Electronic Edition 1997}{x}{}%
+\contentsline {section}{\numberline {0.2}Preface to the Electronic Edition 1991}{xi}{}%
 \contentsline {chapter}{\numberline {1}The Technological War}{1}{}%
 \contentsline {section}{\numberline {1.1}Definition of Technological Warfare}{7}{}%
 \contentsline {section}{\numberline {1.2}Foundations of the Technological War}{9}{}%
@@ -43,8 +43,44 @@
 \contentsline {section}{\numberline {2.16}Centralized Decisions}{52}{}%
 \contentsline {section}{\numberline {2.17}Small Advantages}{53}{}%
 \contentsline {section}{\numberline {2.18}Symmetry of Motives}{53}{}%
-\contentsline {section}{\numberline {2.19}Overkill\FN@sf@gobble@opt {The Secretary of Defense's heavy emphasis on numerical data from Viet Nam often dictated inappropriate military tactics and strategies. As one operations officer explained, the goal wasn't to kill targets, it was to fly sorties.} }{55}{}%
+\contentsline {section}{\numberline {2.19}Overkill \FN@sf@gobble@opt {The Secretary of Defense's heavy emphasis on numerical data from Viet Nam often dictated inappropriate military tactics and strategies. As one operations officer explained, the goal wasn't to kill targets, it was to fly sorties.} }{55}{}%
 \contentsline {section}{\numberline {2.20}Fear of Obsolescence}{55}{}%
 \contentsline {section}{\numberline {2.21}We Don't Need to Do Anything}{56}{}%
 \contentsline {section}{\numberline {2.22}An Illustrative Case History:}{57}{}%
-\contentsline {subsection}{\numberline {2.22.1}GPS NAVSTAR: The Revolution 25 Years in the Making}{57}{}%
+\contentsline {chapter}{\numberline {3}The Nature of the Technological Process}{65}{}%
+\contentsline {section}{\numberline {3.1}U.S. Policies and Technological Progress}{71}{}%
+\contentsline {section}{\numberline {3.2}Technology and the Economic Base}{74}{}%
+\contentsline {section}{\numberline {3.3}The Technological War General}{74}{}%
+\contentsline {section}{\numberline {3.4}Conclusion}{75}{}%
+\contentsline {chapter}{\numberline {4}Strategic Analysis}{77}{}%
+\contentsline {section}{\numberline {4.1}The Creation of Technological Strategy}{79}{}%
+\contentsline {section}{\numberline {4.2}The Elements of Technological Strategy: An Overview}{80}{}%
+\contentsline {section}{\numberline {4.3}The Creation of Military Technology}{84}{}%
+\contentsline {section}{\numberline {4.4}Phase 1}{85}{}%
+\contentsline {section}{\numberline {4.5}MIRV: An Historical Example}{88}{}%
+\contentsline {section}{\numberline {4.6}Phase 2}{92}{}%
+\contentsline {section}{\numberline {4.7}Phase 3}{94}{}%
+\contentsline {section}{\numberline {4.8}Leadership in Technological Warfare}{96}{}%
+\contentsline {section}{\numberline {4.9}Political Decision Makers}{96}{}%
+\contentsline {section}{\numberline {4.10}Budget}{98}{}%
+\contentsline {section}{\numberline {4.11}Intelligence}{99}{}%
+\contentsline {section}{\numberline {4.12}Strategists}{100}{}%
+\contentsline {section}{\numberline {4.13}Military Operations Specialists}{102}{}%
+\contentsline {section}{\numberline {4.14}Scientists}{103}{}%
+\contentsline {section}{\numberline {4.15}Engineering and Development}{106}{}%
+\contentsline {section}{\numberline {4.16}Procurement and Production}{106}{}%
+\contentsline {section}{\numberline {4.17}Nonmilitary Warfare}{107}{}%
+\contentsline {section}{\numberline {4.18}Systems Analysis}{107}{}%
+\contentsline {section}{\numberline {4.19}Strategic Analysis}{108}{}%
+\contentsline {chapter}{\numberline {5}Surprise}{113}{}%
+\contentsline {section}{\numberline {5.1}The Sneak Attack}{115}{}%
+\contentsline {section}{\numberline {5.2}Strategic Surprise}{116}{}%
+\contentsline {section}{\numberline {5.3}Tactical Surprise}{118}{}%
+\contentsline {section}{\numberline {5.4}Strategic Surprise through Operational Surprise}{119}{}%
+\contentsline {section}{\numberline {5.5}Technology and Surprise}{120}{}%
+\contentsline {section}{\numberline {5.6}Stratagems to Achieve Surprise}{120}{}%
+\contentsline {section}{\numberline {5.7}The Basic Purpose of Surprise}{123}{}%
+\contentsline {section}{\numberline {5.8}Historical Examples}{124}{}%
+\contentsline {section}{\numberline {5.9}Breakthroughs}{125}{}%
+\contentsline {section}{\numberline {5.10}Exploitation of Surprise}{126}{}%
+\contentsline {section}{\numberline {5.11}Conclusion}{129}{}%
