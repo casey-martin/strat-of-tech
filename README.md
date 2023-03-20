@@ -11,3 +11,4 @@ As stated on Jerry's website, this book is a form of shareware. You may find add
   - Learn best practices for formatting commentary added later
     - Footnotes vs Bounding Boxes?
   - Go back and clean up missing endnotes/footnotes
+  - Make prettier ICBM diagram
