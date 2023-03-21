@@ -8,7 +8,6 @@ This is repository is an exercise in which I aim to:
 As stated on Jerry's website, this book is a form of shareware. You may find additional information on the landing page for [The Strategy of Technology](https://www.jerrypournelle.com/slowchange/Strat.html) about where to send funds if you find this edition of the book useful. If Dr. Possony's or Dr. Pournelle's estates wish for me to remove this repository, I will be happy to oblige.
 
 ## To Do:
-  - Learn best practices for formatting commentary added later
-    - Footnotes vs Bounding Boxes?
-  - Go back and clean up missing endnotes/footnotes
   - Make prettier ICBM diagram
+    - Make labels consistent with text
+    - Make background color consistent with other figs
