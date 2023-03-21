@@ -11,3 +11,5 @@ As stated on Jerry's website, this book is a form of shareware. You may find add
   - Make prettier ICBM diagram
     - Make labels consistent with text
     - Make background color consistent with other figs
+  - Clean up fig and chart captions/titles
+
