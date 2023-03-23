@@ -16,8 +16,7 @@ As stated on Jerry's website, this book is a form of shareware. You may find add
 I have created higher resolution images and figures, although the original images from Dr. Pournelle's website are included in the `images` directory but are not rendered in the document. I have also made some minor formatting changes to Dr. Kane's post-chapter notes. 
 
 ## To Do:
-  - Clean up fig and chart captions/titles
-  - Pretty up the S-Curve chart
+  - Clean up fig and chart titles
   - Add background color `mdframed` charts
   - Add Dr. Kane's notes
     - Get dates for Soviet ballistic missiles
