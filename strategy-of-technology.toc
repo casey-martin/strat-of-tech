@@ -1,0 +1,151 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{Preface}{ix}{}%
+\contentsline {section}{\numberline {0.1}Preface to the Electronic Edition 1997}{xii}{}%
+\contentsline {section}{\numberline {0.2}Preface to the Electronic Edition 1991}{xiii}{}%
+\contentsline {chapter}{\numberline {1}The Technological War}{1}{}%
+\contentsline {section}{\numberline {1.1}Definition of Technological Warfare}{8}{}%
+\contentsline {section}{\numberline {1.2}Foundations of the Technological War}{10}{}%
+\contentsline {subsection}{\numberline {1.2.1}Fundamentals of Technology Strategy}{10}{}%
+\contentsline {section}{\numberline {1.3}Dimesnions of the Technological War}{11}{}%
+\contentsline {section}{\numberline {1.4}An Overview of the Nature of Technology}{12}{}%
+\contentsline {section}{\numberline {1.5}The Decisive War}{17}{}%
+\contentsline {section}{\numberline {1.6}The Elements of Strategy}{21}{}%
+\contentsline {subsection}{\numberline {1.6.1}What is Strategy}{21}{}%
+\contentsline {section}{\numberline {1.7}The Principles of War}{22}{}%
+\contentsline {section}{\numberline {1.8}Strategy and Technology}{23}{}%
+\contentsline {subsection}{\numberline {1.8.1}1988}{26}{}%
+\contentsline {subsection}{\numberline {1.8.2}1997}{26}{}%
+\contentsline {chapter}{\numberline {2}An Overview Of The Recent History of the Technological War}{29}{}%
+\contentsline {section}{\numberline {2.1}Organization of This Chapter}{30}{}%
+\contentsline {section}{\numberline {2.2}Soviet Technological Strategy}{31}{}%
+\contentsline {section}{\numberline {2.3}The U.S. Conduct of the Technological War}{33}{}%
+\contentsline {section}{\numberline {2.4}The 1950s Era}{34}{}%
+\contentsline {subsection}{\numberline {2.4.1}The Nuclear Powered Airplane}{34}{}%
+\contentsline {subsection}{\numberline {2.4.2}The ICBM}{36}{}%
+\contentsline {subsection}{\numberline {2.4.3}SLBM}{36}{}%
+\contentsline {section}{\numberline {2.5}The 1960s Era}{36}{}%
+\contentsline {subsection}{\numberline {2.5.1}Apollo}{36}{}%
+\contentsline {subsection}{\numberline {2.5.2}Military Aircraft}{37}{}%
+\contentsline {section}{\numberline {2.6}The 1970s Era}{38}{}%
+\contentsline {subsection}{\numberline {2.6.1}MIRV}{38}{}%
+\contentsline {subsection}{\numberline {2.6.2}Shuttle}{39}{}%
+\contentsline {section}{\numberline {2.7}The 1980s Era}{40}{}%
+\contentsline {subsection}{\numberline {2.7.1}B-1}{40}{}%
+\contentsline {subsection}{\numberline {2.7.2}SDI}{41}{}%
+\contentsline {section}{\numberline {2.8}Present U.S. Assumptions of the Tech. War}{41}{}%
+\contentsline {section}{\numberline {2.9}The Abandonment of the Initiave}{45}{}%
+\contentsline {section}{\numberline {2.10}Surprise\FN@sf@gobble@opt { We analyse the role of surprise in the Technological War in a later chapter. The present section is intended as a brief introduction.} }{48}{}%
+\contentsline {section}{\numberline {2.11}Science Is No Substitute for Military Judgment\FN@sf@gobble@opt { For an early discussion of this subject, see Colonel Francis X. Kane, U.S.A.F., "Security Is Too Important To Be Left To Computers," Fortune, April 1964. Reprinted in Barnen, Mott, and Neff, Peace and War in the Modern Age (Garden City, N.Y.: Doubleday Anchor, 1965).} }{50}{}%
+\contentsline {section}{\numberline {2.12}Systems Analysis and Military Decisions: The TFX}{50}{}%
+\contentsline {section}{\numberline {2.13}The Limits of Scientific Military Analysis}{54}{}%
+\contentsline {section}{\numberline {2.14}Other Fallacies}{55}{}%
+\contentsline {section}{\numberline {2.15}Technological Process}{56}{}%
+\contentsline {section}{\numberline {2.16}Centralized Decisions}{57}{}%
+\contentsline {section}{\numberline {2.17}Small Advantages}{58}{}%
+\contentsline {section}{\numberline {2.18}Symmetry of Motives}{59}{}%
+\contentsline {section}{\numberline {2.19}Overkill \FN@sf@gobble@opt {The Secretary of Defense's heavy emphasis on numerical data from Viet Nam often dictated inappropriate military tactics and strategies. As one operations officer explained, the goal wasn't to kill targets, it was to fly sorties.} }{60}{}%
+\contentsline {section}{\numberline {2.20}Fear of Obsolescence}{61}{}%
+\contentsline {section}{\numberline {2.21}We Don't Need to Do Anything}{62}{}%
+\contentsline {section}{\numberline {2.22}An Illustrative Case History:}{62}{}%
+\contentsline {chapter}{\numberline {3}The Nature of the Technological Process}{69}{}%
+\contentsline {section}{\numberline {3.1}U.S. Policies and Technological Progress}{75}{}%
+\contentsline {section}{\numberline {3.2}Technology and the Economic Base}{78}{}%
+\contentsline {section}{\numberline {3.3}The Technological War General}{78}{}%
+\contentsline {section}{\numberline {3.4}Conclusion}{79}{}%
+\contentsline {chapter}{\numberline {4}Strategic Analysis}{81}{}%
+\contentsline {section}{\numberline {4.1}The Creation of Technological Strategy}{83}{}%
+\contentsline {section}{\numberline {4.2}The Elements of Technological Strategy: An Overview}{84}{}%
+\contentsline {section}{\numberline {4.3}The Creation of Military Technology}{89}{}%
+\contentsline {section}{\numberline {4.4}Phase 1}{89}{}%
+\contentsline {section}{\numberline {4.5}MIRV: An Historical Example}{92}{}%
+\contentsline {section}{\numberline {4.6}Phase 2}{96}{}%
+\contentsline {section}{\numberline {4.7}Phase 3}{98}{}%
+\contentsline {section}{\numberline {4.8}Leadership in Technological Warfare}{100}{}%
+\contentsline {section}{\numberline {4.9}Political Decision Makers}{100}{}%
+\contentsline {section}{\numberline {4.10}Budget}{102}{}%
+\contentsline {section}{\numberline {4.11}Intelligence}{103}{}%
+\contentsline {section}{\numberline {4.12}Strategists}{104}{}%
+\contentsline {section}{\numberline {4.13}Military Operations Specialists}{106}{}%
+\contentsline {section}{\numberline {4.14}Scientists}{107}{}%
+\contentsline {section}{\numberline {4.15}Engineering and Development}{110}{}%
+\contentsline {section}{\numberline {4.16}Procurement and Production}{110}{}%
+\contentsline {section}{\numberline {4.17}Nonmilitary Warfare}{111}{}%
+\contentsline {section}{\numberline {4.18}Systems Analysis}{111}{}%
+\contentsline {section}{\numberline {4.19}Strategic Analysis}{112}{}%
+\contentsline {chapter}{\numberline {5}Surprise}{115}{}%
+\contentsline {section}{\numberline {5.1}The Sneak Attack}{117}{}%
+\contentsline {section}{\numberline {5.2}Strategic Surprise}{118}{}%
+\contentsline {section}{\numberline {5.3}Tactical Surprise}{120}{}%
+\contentsline {section}{\numberline {5.4}Strategic Surprise through Operational Surprise}{121}{}%
+\contentsline {section}{\numberline {5.5}Technology and Surprise}{122}{}%
+\contentsline {section}{\numberline {5.6}Stratagems to Achieve Surprise}{122}{}%
+\contentsline {section}{\numberline {5.7}The Basic Purpose of Surprise}{125}{}%
+\contentsline {section}{\numberline {5.8}Historical Examples}{126}{}%
+\contentsline {section}{\numberline {5.9}Breakthroughs}{127}{}%
+\contentsline {section}{\numberline {5.10}Exploitation of Surprise}{128}{}%
+\contentsline {section}{\numberline {5.11}Conclusion}{131}{}%
+\contentsline {chapter}{\numberline {6}Assured Survival}{133}{}%
+\contentsline {section}{\numberline {6.1}Introduction}{133}{}%
+\contentsline {section}{\numberline {6.2}Assured Destruction}{134}{}%
+\contentsline {section}{\numberline {6.3}Soviet Strategic Doctrine}{135}{}%
+\contentsline {section}{\numberline {6.4}Requirements of Assured Survival}{136}{}%
+\contentsline {section}{\numberline {6.5}The Case Against Active Defense}{138}{}%
+\contentsline {section}{\numberline {6.6}Discussion}{139}{}%
+\contentsline {section}{\numberline {6.7}The Case for a New Strategy}{144}{}%
+\contentsline {section}{\numberline {6.8}The Technology of Active Defense}{147}{}%
+\contentsline {section}{\numberline {6.9}The Nature of the Threat}{147}{}%
+\contentsline {section}{\numberline {6.10}Defense Problems}{149}{}%
+\contentsline {section}{\numberline {6.11}The ABM Problem}{149}{}%
+\contentsline {subsection}{\numberline {6.11.1}Boost Phase}{150}{}%
+\contentsline {subsection}{\numberline {6.11.2}Post-Boost}{150}{}%
+\contentsline {subsection}{\numberline {6.11.3}Midcourse}{150}{}%
+\contentsline {subsection}{\numberline {6.11.4}Reentry or Terminal Phase}{151}{}%
+\contentsline {section}{\numberline {6.12}Interception Possibilities}{151}{}%
+\contentsline {section}{\numberline {6.13}Passive Defense}{156}{}%
+\contentsline {section}{\numberline {6.14}Laser Weapon Systems}{157}{}%
+\contentsline {section}{\numberline {6.15}What Kind of Defense?}{159}{}%
+\contentsline {section}{\numberline {6.16}1997}{163}{}%
+\contentsline {chapter}{\numberline {7}The Nuclear Technology Race}{165}{}%
+\contentsline {section}{\numberline {7.1}Foreward}{165}{}%
+\contentsline {subsection}{\numberline {7.1.1}1997}{165}{}%
+\contentsline {subsection}{\numberline {7.1.2}1988}{166}{}%
+\contentsline {section}{\numberline {7.2}The Applications Effort}{167}{}%
+\contentsline {section}{\numberline {7.3}The Basic and Continuing Role: Deterring War}{170}{}%
+\contentsline {section}{\numberline {7.4}The Initiative}{171}{}%
+\contentsline {section}{\numberline {7.5}The Shape of Things To Come: The Baruch Plan}{172}{}%
+\contentsline {section}{\numberline {7.6}The Second Ploy: The Test Ban}{172}{}%
+\contentsline {section}{\numberline {7.7}The Test-ban Strategy}{173}{}%
+\contentsline {section}{\numberline {7.8}Another Strategic Failure}{175}{}%
+\contentsline {section}{\numberline {7.9}Yield-to-weight Ratio}{179}{}%
+\contentsline {section}{\numberline {7.10}Nuclear Strategy}{182}{}%
+\contentsline {section}{\numberline {7.11}History of the Nuclear Race}{183}{}%
+\contentsline {subsection}{\numberline {7.11.1}Nuclear Research Requirements}{183}{}%
+\contentsline {section}{\numberline {7.12}The Impediments to Nuclear Research}{184}{}%
+\contentsline {section}{\numberline {7.13}Conclusion}{185}{}%
+\contentsline {section}{\numberline {7.14}Notes to Chapter 7 by Dr. Francis X. Kane}{186}{}%
+\contentsline {subsection}{\numberline {7.14.1}Nuclear Technology}{187}{}%
+\contentsline {chapter}{\numberline {8}What Kind of War Is This?}{193}{}%
+\contentsline {section}{\numberline {8.1}Classification of Conflicts}{194}{}%
+\contentsline {section}{\numberline {8.2}What Are Small Wars?}{194}{}%
+\contentsline {section}{\numberline {8.3}Political Correlation of the Forces}{199}{}%
+\contentsline {section}{\numberline {8.4}Correlation of Morale}{199}{}%
+\contentsline {section}{\numberline {8.5}Correlation of Economic Power}{200}{}%
+\contentsline {section}{\numberline {8.6}Correlation of Technological Power}{200}{}%
+\contentsline {section}{\numberline {8.7}Correlation of Military Power}{201}{}%
+\contentsline {section}{\numberline {8.8}The Spectrum of Small Wars}{201}{}%
+\contentsline {section}{\numberline {8.9}Escalation to Centralized War}{206}{}%
+\contentsline {section}{\numberline {8.10}The United States and the Future of Small Wars}{208}{}%
+\contentsline {section}{\numberline {8.11}U.S. and Small Wars}{208}{}%
+\contentsline {section}{\numberline {8.12}World Policeman?}{209}{}%
+\contentsline {section}{\numberline {8.13}Force Requirements for Small Wars}{216}{}%
+\contentsline {section}{\numberline {8.14}Small Wars and Escalation}{220}{}%
+\contentsline {section}{\numberline {8.15}Conclusion}{222}{}%
+\contentsline {chapter}{\numberline {9}The Prevention of War}{223}{}%
+\contentsline {section}{\numberline {9.1}Why Wars Are Not Fought}{223}{}%
+\contentsline {section}{\numberline {9.2}The Nature of Strategic Decisions}{225}{}%
+\contentsline {section}{\numberline {9.3}Offense and Defense}{228}{}%
+\contentsline {section}{\numberline {9.4}The Modern Strategic War}{229}{}%
+\contentsline {section}{\numberline {9.5}The Effect of Nuclear Weapons}{231}{}%
+\contentsline {section}{\numberline {9.6}Force Levels in the Nuclear Era}{232}{}%
+\contentsline {section}{\numberline {9.7}Security Through Arms Control}{233}{}%
+\contentsline {section}{\numberline {9.8}Security in the Modern Era}{234}{}%

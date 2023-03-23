@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg40277"
+   sodipodi:docname="chart-18.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview40279"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-midpoints="true"
+     inkscape:zoom="0.66321977"
+     inkscape:cx="184.70499"
+     inkscape:cy="643.07492"
+     inkscape:window-width="1910"
+     inkscape:window-height="1026"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-text-baseline="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-center="true"
+     inkscape:snap-nodes="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid41717" />
+  </sodipodi:namedview>
+  <defs
+     id="defs40274" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1630"
+       inkscape:export-filename="/home/operon/scripts/strat-of-tech/images/chart-18.png"
+       inkscape:export-xdpi="100.06"
+       inkscape:export-ydpi="100.06">
+      <g
+         id="g14607"
+         transform="matrix(1.1335266,0,0,1.1335266,-13.698382,-22.982558)"
+         inkscape:export-filename="/home/operon/scripts/strat-of-tech/images/fig-3.png"
+         inkscape:export-xdpi="100.06"
+         inkscape:export-ydpi="100.06">
+        <g
+           id="g14459">
+          <g
+             id="g14407">
+            <g
+               id="g39003"
+               transform="matrix(0.83440099,0,0,1.0080081,15.168219,10.94826)">
+              <rect
+                 style="fill:#ffffce;stroke-width:12.955;stroke-linecap:round;-inkscape-stroke:none;stop-color:#000000"
+                 id="rect846"
+                 width="204.81212"
+                 height="151.24524"
+                 x="2.3648384"
+                 y="84.265778" />
+            </g>
+          </g>
+          <g
+             id="g14403"
+             transform="translate(3.2535738,-2.507928)">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 83.343751,117.30343 V 235.47917 H 173.30212"
+               id="path1097"
+               sodipodi:nodetypes="ccc" />
+            <text
+               xml:space="preserve"
+               style="font-size:7.82952px;line-height:1.25;font-family:ISOCP;-inkscape-font-specification:'ISOCP, Normal';letter-spacing:0px;stroke-width:0.195738"
+               x="128.32484"
+               y="243.31123"
+               id="text4357"><tspan
+                 sodipodi:role="line"
+                 style="text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.195738;stroke-opacity:1"
+                 x="128.32484"
+                 y="243.31123"
+                 id="tspan11363">INTENSITY OF CONFLICT</tspan></text>
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.793749;stroke-dashoffset:0;stroke-opacity:1"
+               d="m 94.160762,222.25003 c 0,0 7.960918,-10.5131 10.583338,-15.87501 2.62242,-5.36191 3.52777,-10.58335 5.29166,-15.87502 1.76389,-5.29167 1.85826,-10.31965 5.29167,-15.87502 3.43341,-5.55537 10.58333,-10.58334 15.875,-15.87501 5.29167,-5.29167 9.71692,-10.53414 15.875,-15.87502 6.15808,-5.34088 21.16667,-15.87501 21.16667,-15.87501"
+               id="path13986"
+               sodipodi:nodetypes="csssssc" />
+            <path
+               id="rect41715"
+               style="fill:#c3c3c3;stroke:#000000;stroke-width:0.186696;stroke-opacity:0.985988;stop-color:#000000"
+               d="m 83.343742,226.21878 v -7.9375 h 10.817021 v 7.9375 z"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               id="path40555"
+               style="stroke-width:0.21409;stroke-opacity:0.985988;stop-color:#000000"
+               inkscape:transform-center-x="-0.69331454"
+               inkscape:transform-center-y="3.1049718e-06"
+               d="m 173.3021,233.07747 v 4.8034 l 4.15986,-2.4017 z" />
+            <path
+               id="path40675"
+               style="stroke-width:0.21409;stroke-opacity:0.985988;stop-color:#000000"
+               inkscape:transform-center-x="-4.54e-06"
+               inkscape:transform-center-y="-0.6933169"
+               d="m 80.942051,117.30342 h 4.8034 l -2.4017,-4.15986 z" />
+            <text
+               xml:space="preserve"
+               style="font-size:4.7967px;line-height:1.25;font-family:ISOCP;-inkscape-font-specification:'ISOCP, Normal';letter-spacing:0px;stroke-width:0.119918"
+               x="57.214054"
+               y="221.24532"
+               id="text1458"><tspan
+                 sodipodi:role="line"
+                 style="text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.119918;stroke-opacity:1"
+                 x="57.214054"
+                 y="221.24532"
+                 id="tspan1456">ECONOMIC</tspan><tspan
+                 sodipodi:role="line"
+                 style="text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.119918;stroke-opacity:1"
+                 x="57.214054"
+                 y="227.2412"
+                 id="tspan2046">WAR</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:4.7967px;line-height:1.25;font-family:ISOCP;-inkscape-font-specification:'ISOCP, Normal';letter-spacing:0px;stroke-width:0.119918"
+               x="57.214054"
+               y="205.3703"
+               id="text3320"><tspan
+                 sodipodi:role="line"
+                 style="text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.119918;stroke-opacity:1"
+                 x="57.214054"
+                 y="205.3703"
+                 id="tspan3318">POLITICAL</tspan><tspan
+                 sodipodi:role="line"
+                 style="text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.119918;stroke-opacity:1"
+                 x="57.214054"
+                 y="211.36618"
+                 id="tspan3346">WAR</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:4.7967px;line-height:1.25;font-family:ISOCP;-inkscape-font-specification:'ISOCP, Normal';letter-spacing:0px;stroke-width:0.119918"
+               x="57.218151"
+               y="189.49529"
+               id="text3512"><tspan
+                 sodipodi:role="line"
+                 style="text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.119918;stroke-opacity:1"
+                 x="57.218151"
+                 y="189.49529"
+                 id="tspan3510">GUERILLA</tspan><tspan
+                 sodipodi:role="line"
+                 style="text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.119918;stroke-opacity:1"
+                 x="57.218151"
+                 y="195.49117"
+                 id="tspan3538">WAR</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:4.7967px;line-height:1.25;font-family:ISOCP;-inkscape-font-specification:'ISOCP, Normal';letter-spacing:0px;stroke-width:0.119918"
+               x="57.218151"
+               y="173.62027"
+               id="text3624"><tspan
+                 sodipodi:role="line"
+                 style="text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.119918;stroke-opacity:1"
+                 x="57.218151"
+                 y="173.62027"
+                 id="tspan3622">LIMITED</tspan><tspan
+                 sodipodi:role="line"
+                 style="text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.119918;stroke-opacity:1"
+                 x="57.218151"
+                 y="179.61615"
+                 id="tspan3812">WAR</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:4.7967px;line-height:1.25;font-family:ISOCP;-inkscape-font-specification:'ISOCP, Normal';letter-spacing:0px;stroke-width:0.119918"
+               x="57.218151"
+               y="157.74525"
+               id="text3898"><tspan
+                 sodipodi:role="line"
+                 style="text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.119918;stroke-opacity:1"
+                 x="57.218151"
+                 y="157.74525"
+                 id="tspan3924">LIMITED NUCLEAR</tspan><tspan
+                 sodipodi:role="line"
+                 style="text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.119918;stroke-opacity:1"
+                 x="57.218151"
+                 y="163.74113"
+                 id="tspan3928">WAR</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:4.7967px;line-height:1.25;font-family:ISOCP;-inkscape-font-specification:'ISOCP, Normal';letter-spacing:0px;stroke-width:0.119918"
+               x="57.222542"
+               y="141.87024"
+               id="text4014"><tspan
+                 sodipodi:role="line"
+                 style="text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.119918;stroke-opacity:1"
+                 x="57.222542"
+                 y="141.87024"
+                 id="tspan4012">THERMONUCLEAR</tspan><tspan
+                 sodipodi:role="line"
+                 style="text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.119918;stroke-opacity:1"
+                 x="57.222542"
+                 y="147.86612"
+                 id="tspan4040">WAR</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:4.7967px;line-height:1.25;font-family:ISOCP;-inkscape-font-specification:'ISOCP, Normal';letter-spacing:0px;stroke-width:0.119918"
+               x="57.214054"
+               y="125.99523"
+               id="text4266"><tspan
+                 sodipodi:role="line"
+                 style="text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.119918;stroke-opacity:1"
+                 x="57.214054"
+                 y="125.99523"
+                 id="tspan4264">CENTRAL</tspan><tspan
+                 sodipodi:role="line"
+                 style="text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.119918;stroke-opacity:1"
+                 x="57.214054"
+                 y="131.9911"
+                 id="tspan4372">WAR</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:7.82952px;line-height:1.25;font-family:ISOCP;-inkscape-font-specification:'ISOCP, Normal';letter-spacing:0px;stroke-width:0.195738"
+               x="-176.3913"
+               y="30.427084"
+               id="text4730"
+               transform="rotate(-90)"><tspan
+                 sodipodi:role="line"
+                 style="text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.195738;stroke-opacity:1"
+                 x="-176.3913"
+                 y="30.427084"
+                 id="tspan4728">TYPE OF CONFLICT</tspan></text>
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 78.363154,222.67753 h 4.980588"
+               id="path5017"
+               sodipodi:nodetypes="cc" />
+            <path
+               id="rect5111"
+               style="fill:#c3c3c3;stroke:#000000;stroke-width:0.186696;stroke-opacity:0.985988;stop-color:#000000"
+               d="m 83.343742,210.34377 v -7.9375 H 104.7441 v 7.9375 z"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               id="rect5113"
+               style="fill:#c3c3c3;stroke:#000000;stroke-width:0.186696;stroke-opacity:0.985988;stop-color:#000000"
+               d="m 83.343742,194.46875 v -7.9375 h 26.692018 v 7.9375 z"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               id="rect5115"
+               style="fill:#c3c3c3;stroke:#000000;stroke-width:0.186696;stroke-opacity:0.985988;stop-color:#000000"
+               d="m 83.343742,178.59373 v -7.93749 h 31.983688 v 7.93749 z" />
+            <path
+               id="rect5117"
+               style="fill:#c3c3c3;stroke:#000000;stroke-width:0.186696;stroke-opacity:0.985988;stop-color:#000000"
+               d="m 83.343742,162.71872 v -7.9375 h 47.858688 v 7.9375 z"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               id="rect5119"
+               style="fill:#c3c3c3;stroke:#000000;stroke-width:0.186696;stroke-opacity:0.985988;stop-color:#000000"
+               d="m 83.343742,146.8437 v -7.9375 h 63.733688 v 7.9375 z"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               id="rect5121"
+               style="fill:#c3c3c3;stroke:#000000;stroke-width:0.186696;stroke-opacity:0.985988;stop-color:#000000"
+               d="m 83.343742,130.96869 v -7.9375 H 168.2441 v 7.9375 z"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 78.363154,206.80252 h 4.980588"
+               id="path7219"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 78.363154,190.92751 h 4.980588"
+               id="path7221"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 78.363154,175.0525 h 4.980588"
+               id="path7223"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 78.363154,159.17749 h 4.980588"
+               id="path7225"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 78.363154,143.30248 h 4.980588"
+               id="path7227"
+               sodipodi:nodetypes="cc" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 78.363154,127.42747 h 4.980588"
+               id="path7309"
+               sodipodi:nodetypes="cc" />
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:7.82952px;line-height:1.25;font-family:ISOCP;-inkscape-font-specification:'ISOCP, Normal';letter-spacing:0px;stroke-width:0.195738"
+           x="102.60254"
+           y="106.53285"
+           id="text31153"><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.195738;stroke-opacity:1"
+             x="102.60254"
+             y="106.53285"
+             id="tspan31151">CHART 18: A CONFLICT CONTINUUM</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
