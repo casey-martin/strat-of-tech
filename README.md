@@ -12,8 +12,12 @@ This is repository is an exercise in which I aim to:
 
 As stated on Jerry's website, this book is a form of shareware. You may find additional information on the landing page for [The Strategy of Technology](https://www.jerrypournelle.com/slowchange/Strat.html) about where to send funds if you find this edition of the book useful. If Dr. Possony's or Dr. Pournelle's estates wish for me to remove this repository, I will be happy to oblige.
 
+## Minor changes
+I have created higher resolution images and figures, although the original images from Dr. Pournelle's website are included in the `images` directory but are not rendered in the document. I have also made some minor formatting changes to Dr. Kane's post-chapter notes. 
+
 ## To Do:
   - Clean up fig and chart captions/titles
+  - Pretty up the S-Curve chart
   - Add background color `mdframed` charts
   - Add Dr. Kane's notes
     - Get dates for Soviet ballistic missiles
